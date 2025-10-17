@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Actv4_imc">
         <activity
+            android:name=".ImcCalculator.ImcCalculatorActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
