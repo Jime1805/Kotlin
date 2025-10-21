@@ -254,9 +254,9 @@
     <Button
         android:id="@+id/btnCalculate"
         android:layout_width="0dp"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
         android:textSize="25sp"
         android:textStyle="bold"
         android:backgroundTint="@color/background_fab"

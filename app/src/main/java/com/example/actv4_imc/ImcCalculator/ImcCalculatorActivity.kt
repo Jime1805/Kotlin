@@ -2,6 +2,7 @@ package com.example.actv4_imc.ImcCalculator
 
 import android.content.Intent
 import android.os.Bundle
+import android.widget.Button
 import android.widget.TextView
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
@@ -34,7 +35,7 @@ class ImcCalculatorActivity : AppCompatActivity() {
     private lateinit var btnPlusAge: FloatingActionButton
     private lateinit var btnSubstractAge: FloatingActionButton
     private lateinit var tvAge: TextView
-    private lateinit var btnCalculate: FloatingActionButton
+    private lateinit var btnCalculate: Button
 
 
     companion object{
