@@ -8,4 +8,7 @@
     <color name="background_app">#0E0B20</color>
     <color name="background_nutton">#EB1555</color>
     <color name="title_text">#FF8D8E98</color>
+    <color name="background_fab">#FF6200EE</color>
+    <color name="background_result">#021145</color>
+    <color name="background_result_text">#092073</color>
 </resources>
